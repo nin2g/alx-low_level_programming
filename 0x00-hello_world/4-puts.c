@@ -1,2 +1,2 @@
 #!/bin/bash 
-gcc -o ppf ppf.c && ./ppf
+gcc -run ppf.c
