@@ -11,7 +11,7 @@ int main(void)
 	int n;
 
 	srand(time(0));
-	=rand() - RAND_MAX /2;
+	= rand() - RAND_MAX /2;
 	if (n>0)
 		printf("is positive");
 	else if (n==0)
