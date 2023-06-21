@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * add - adds two numbers.
- * @v1 - the first number.
- * @v2 - the second number.
+ * add - should add the two entered values
+ * @v1: the first number.
+ * @v2: the second number.
  * Return: sum integer value.
  */
 
