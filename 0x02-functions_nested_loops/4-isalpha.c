@@ -1,4 +1,4 @@
-#include <"main">
+#include <"main.h">
 /**
  * _isalpha - checks for alphabetic character.
  * Returns: should return 1 for  alphabetic character otherwise 0.
