@@ -8,7 +8,7 @@
  * Return: should return a pointer to destination string.
  */
 
-char *_strcat(char*d, char *s)
+char *_strcat(char *d, char *s)
 
 {
 	int dlen = 0, i;
