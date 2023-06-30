@@ -3,7 +3,7 @@
 /**
  * _strcmp - compares two strings
  * @s1: pointer to the first string
- * @s2 pointer to the second string
+ * @s2: pointer to the second string
  * Return:should return 0 if str1 == str2
  * Othrewise should return difference of sutracting str1 from str1.
  */
